@@ -1,5 +1,5 @@
 # 💫 About Me:
-Goal-driven and motivated 4th year Computer Science Student at the FEU - Institute of Technology. Having hands on experience on web and mobile development, I am eager to learn more tools and frameworks to further enhance my knowledge on the field. I am also trying to learn Scripting and Machine Learning techniques using Python. Don't hesitate to leave a message if you are interested in collaborating. Let's Code Together! 
+Goal-driven and motivated 4th year Computer Science Student at the FEU - Institute of Technology. Having hands on experience on web and mobile development, I am eager to learn more tools and frameworks to further enhance my knowledge on the field. I am also trying to learn Scripting and Machine Learning techniques using Python. Don't hesitate to leave a message if you are interested in collaborating. Let's code together! 
 
 
 ## 🌐 Socials:
